@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\hp\source\repos\Rail fence\Rail fence\Source.cpp(17,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\source\repos\Rail fence\Rail fence\Source.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\source\repos\Rail fence\Rail fence\Source.cpp(42,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\source\repos\Rail fence\Rail fence\Source.cpp(60,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\source\repos\Rail fence\Rail fence\Source.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\source\repos\Rail fence\Rail fence\Source.cpp(87,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\source\repos\Rail fence\Rail fence\Source.cpp(88,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\source\repos\Rail fence\Rail fence\Source.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+  Rail fence.vcxproj -> C:\Users\hp\source\repos\Rail fence\Debug\Rail fence.exe
